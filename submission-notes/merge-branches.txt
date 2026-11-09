@@ -1,0 +1,1 @@
+Record the actual commands and terminal output for the first merge here. Include the requested checkout and merge commands and the real changed-file count.
