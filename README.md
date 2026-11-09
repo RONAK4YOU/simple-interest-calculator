@@ -29,26 +29,16 @@ Example: principal `1000`, rate `5`, time `2` gives interest `100.00` and total 
 - `CONTRIBUTING.md` — contribution guidance
 - `submission-notes/` — honest templates for recording your own GitHub and terminal evidence
 
-## Publish to GitHub
+## Project links
 
-Create a **public** repository on GitHub named `simple-interest-calculator` (leave it empty; do not add a README or license there). Then, from this directory, run:
-
-```bash
-git init -b main
-git add README.md LICENSE CODE_OF_CONDUCT.md CONTRIBUTING.md simple-interest.sh submission-notes
-git commit -m "Build simple interest calculator project"
-git remote add origin https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator.git
-git push -u origin main
-```
-
-Replace `YOUR-GITHUB-USERNAME` with your own username. Your file URLs will then be:
+This project is published in the public repository [RONAK4YOU/simple-interest-calculator](https://github.com/RONAK4YOU/simple-interest-calculator). Use these file links for the corresponding submission questions:
 
 ```text
-https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator/blob/main/README.md
-https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator/blob/main/LICENSE
-https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator/blob/main/CODE_OF_CONDUCT.md
-https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator/blob/main/CONTRIBUTING.md
-https://github.com/YOUR-GITHUB-USERNAME/simple-interest-calculator/blob/main/simple-interest.sh
+https://github.com/RONAK4YOU/simple-interest-calculator/blob/main/README.md
+https://github.com/RONAK4YOU/simple-interest-calculator/blob/main/LICENSE
+https://github.com/RONAK4YOU/simple-interest-calculator/blob/main/CODE_OF_CONDUCT.md
+https://github.com/RONAK4YOU/simple-interest-calculator/blob/main/CONTRIBUTING.md
+https://github.com/RONAK4YOU/simple-interest-calculator/blob/main/simple-interest.sh
 ```
 
-These URLs only work after you publish the repository. A public fork, pull request, and their command output must be generated from your own GitHub account; use the notes in `submission-notes/` to record the real output after doing those steps. Never submit example output as if it came from your account.
+A public fork, pull request, and their command output must come from the required assignment workflow in your GitHub account. Use the notes in `submission-notes/` to record the real output after doing those steps. Never submit example output as if it came from your account.
